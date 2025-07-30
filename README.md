@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sania824
 - 👀 I’m interested in coding and web-based technologies
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Python and its frameworks
 - 💞️ I’m looking to collaborate on web-based projects
 - 📫 How to reach me:
      Gmail: sania9aimen@gmail.com
